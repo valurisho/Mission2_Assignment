@@ -1,0 +1,14 @@
+/Users/valu.montoya/RiderProjects/Mission2_Assignment/obj/Debug/net8.0/Mission2_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valu.montoya/RiderProjects/Mission2_Assignment/obj/Debug/net8.0/Mission2_Assignment.AssemblyInfoInputs.cache
+/Users/valu.montoya/RiderProjects/Mission2_Assignment/obj/Debug/net8.0/Mission2_Assignment.AssemblyInfo.cs
+/Users/valu.montoya/RiderProjects/Mission2_Assignment/obj/Debug/net8.0/Mission2_Assignment.csproj.CoreCompileInputs.cache
+/Users/valu.montoya/RiderProjects/Mission2_Assignment/bin/Debug/net8.0/Mission2_Assignment
+/Users/valu.montoya/RiderProjects/Mission2_Assignment/bin/Debug/net8.0/Mission2_Assignment.deps.json
+/Users/valu.montoya/RiderProjects/Mission2_Assignment/bin/Debug/net8.0/Mission2_Assignment.runtimeconfig.json
+/Users/valu.montoya/RiderProjects/Mission2_Assignment/bin/Debug/net8.0/Mission2_Assignment.dll
+/Users/valu.montoya/RiderProjects/Mission2_Assignment/bin/Debug/net8.0/Mission2_Assignment.pdb
+/Users/valu.montoya/RiderProjects/Mission2_Assignment/obj/Debug/net8.0/Mission2_Assignment.dll
+/Users/valu.montoya/RiderProjects/Mission2_Assignment/obj/Debug/net8.0/refint/Mission2_Assignment.dll
+/Users/valu.montoya/RiderProjects/Mission2_Assignment/obj/Debug/net8.0/Mission2_Assignment.pdb
+/Users/valu.montoya/RiderProjects/Mission2_Assignment/obj/Debug/net8.0/Mission2_Assignment.genruntimeconfig.cache
+/Users/valu.montoya/RiderProjects/Mission2_Assignment/obj/Debug/net8.0/ref/Mission2_Assignment.dll
